@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5382" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 28, "PtoCorresp": 34 }, "geometry": { "type": "Point", "coordinates": [ 570462.555906266323291, 6145961.516978269442916 ] } },
+{ "type": "Feature", "properties": { "id": 156, "PtoCorresp": 42 }, "geometry": { "type": "Point", "coordinates": [ 585635.199929884634912, 6137995.915924282744527 ] } },
+{ "type": "Feature", "properties": { "id": 158, "PtoCorresp": 43 }, "geometry": { "type": "Point", "coordinates": [ 369876.193502387148328, 6251538.95116987451911 ] } },
+{ "type": "Feature", "properties": { "id": 253, "PtoCorresp": 89 }, "geometry": { "type": "Point", "coordinates": [ 574858.812122802482918, 6137758.335770970210433 ] } },
+{ "type": "Feature", "properties": { "id": 282, "PtoCorresp": 99 }, "geometry": { "type": "Point", "coordinates": [ 575175.370069641619921, 6142043.245609002187848 ] } }
+]
+}
